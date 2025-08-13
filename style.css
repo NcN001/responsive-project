@@ -153,11 +153,26 @@ footer .social-links a:hover {
     font-size: 44px;
     line-height: 1.5;
   }
+
+  h2 {
+    font-size: 44px;
+  }
+
+  h4{
+    font-size:26px;
+  }
   
- .content-container
+ .content-container {
+  text-align: center;
+  padding: 0;
+ }
   
   .project-description {
   padding: 0; 
   text-align: center;
   }
+
+ footer .contact-box {
+  padding: 30px;
+ } 
 }
